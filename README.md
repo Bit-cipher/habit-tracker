@@ -14,7 +14,6 @@ Immutable proof of consistency stored on Solana
 
 
 
-# habit-tracker
 
 ### Description
 
