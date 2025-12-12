@@ -1,6 +1,5 @@
 # habit-tracker
-<<<<<<< HEAD
-=======
+
 📖 User Story
 As a person trying to build consistent daily habits,
 I want a decentralized habit tracker that counts my daily check-ins on the blockchain,
@@ -15,8 +14,6 @@ View total streak count and last check-in time
 Immutable proof of consistency stored on Solana
 
 
-
->>>>>>> 09ef4dad3f0b100f52652a1dba8dae05690b56c6
 
 ### Description
 
@@ -72,5 +69,3 @@ pub struct Habit {
 }
 <<<<<<< HEAD
 ```
-=======
->>>>>>> 09ef4dad3f0b100f52652a1dba8dae05690b56c6
